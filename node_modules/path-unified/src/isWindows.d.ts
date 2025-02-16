@@ -1,1 +1,0 @@
-export function isWindows(): boolean;
